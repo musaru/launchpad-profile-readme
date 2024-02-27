@@ -1,3 +1,4 @@
+
 <!-- 
   <<< Author notes: Header of the course >>> 
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -7,7 +8,8 @@
 
 # Launchpad: Profile README
 
-_Say hello to your community._
+Hello! I am Abu Saleh Musa Miah, I am from the University of Aizu, Japan, taking PhD degree in Computer Science and Engineering. 
+Skills:  Pose Extraction, Mediapipe, OpenPose, AlphaPose, Pytorch, Tensorflow, Python, Matlab. 
 
 
 <!-- 
